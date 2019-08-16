@@ -20,4 +20,4 @@ More specifically:
 - By completing missions you gather gold and experience and advance levels
 - You can play a dice game by approaching and interacting with the *dice master*
 - Moving close to the *spider* will result to it attacking you
-- You can perform trades by approaching the *trader*
+- You can perform trades by approaching and interacting with the *trader*
