@@ -19,5 +19,5 @@ More specifically:
 - By gathering collectible items you will be able to enchance your skills in the enchanting bench
 - By completing missions you gather gold and experience and advance levels
 - You can play a dice game by approaching and interacting with the *dice master*
-- Moving closely to the *spider* will result to it attacking you
+- Moving close to the *spider* will result to it attacking you
 - You can perform trades by approaching the *trader*
